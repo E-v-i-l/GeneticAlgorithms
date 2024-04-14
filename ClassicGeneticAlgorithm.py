@@ -10,7 +10,7 @@ P_CROSSOVER = 0.9       # вероятность скрещивания
 P_MUTATION = 0.1      # вероятность мутации индивидуума
 MAX_GENERATIONS = 1000    # максимальное количество поколений
 
-RANDOM_SEED = random.randint(1, 1000)
+#RANDOM_SEED = random.randint(1, 1000)
 random.seed(114)
 
 
